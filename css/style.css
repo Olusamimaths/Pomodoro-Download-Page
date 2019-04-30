@@ -20,3 +20,8 @@
 .small_icons {
   width: 50px;
 }
+
+#screenshot {
+  width: 70%;
+  height: auto;
+}
