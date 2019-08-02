@@ -9,3 +9,6 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
  - Sessions Counter: This keeps track of the pomodoro sessions you have had.
  - Alarm: When the timer countdown gets below 15s, an alarm notifies you that it's time for a break or to resume work
  - Timer Controls: You can increase or reduce the break / work tme.
+
+## Source code
+The source code for the app is available here https://github.com/Olusamimaths/Pomodoro-Desktop-App
